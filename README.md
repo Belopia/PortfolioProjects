@@ -10,3 +10,6 @@ https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housin
 
 ### Movie Correlation Project
 https://www.kaggle.com/datasets/danielgrijalvas/movies
+
+### Supermarket Querry
+https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset
